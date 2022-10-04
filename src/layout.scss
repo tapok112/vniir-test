@@ -1,0 +1,16 @@
+$nav-background-color: #191821;
+$background-color: #2764B0;
+$white: #F3F4F4;
+$text-color: #69374A;
+$red-brown-color: #9D3B29;
+$red: #DE2818;
+
+body {
+  background-color: $background-color;
+  color: $white;
+}
+
+.login_block {
+  color: $text-color;
+  background-color: $white;
+}
